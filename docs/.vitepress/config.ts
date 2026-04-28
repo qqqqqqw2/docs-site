@@ -93,7 +93,7 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/luodawei' },
+      { icon: 'github', link: 'https://github.com/luo-dawei' },
     ],
 
     footer: {
