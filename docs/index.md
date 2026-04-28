@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: 罗大为
+  name: ldw
   text: 技术笔记
   tagline: 全栈工程师技术沉淀 · 业务梳理 · 部署 SOP
   actions:
